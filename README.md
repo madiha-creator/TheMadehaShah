@@ -3,6 +3,10 @@
 This repository runs the personal website in Streamlit. The page is in
 `index.html`; edit the `ME` block near the bottom to update its content.
 
+## Run on Streamlit
+```sh
+ https://themadehashah-s.streamlit.app/
+```
 ## Run locally
 
 ```sh
